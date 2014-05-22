@@ -6,7 +6,7 @@ Vector-Field-Compositer
 Vector Field Compositer - Averaging
 
 Overview:
-Particulate Aggregation Studies v1
+Vector Field Compositor v3angR2
 
 Creating Vector Clouds
 
